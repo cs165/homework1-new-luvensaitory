@@ -108,3 +108,8 @@ hr {
 .content span {
     display: block;
 }
+
+.re {
+    font-weight: bold;
+    display: inline;
+}
